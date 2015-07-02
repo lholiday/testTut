@@ -11,7 +11,7 @@ namespace testTutConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("hello world!");
-            Console.WriteLine("Press any key.");
+            Console.WriteLine("Press ne key.");
             Console.ReadKey();
         }
     }
